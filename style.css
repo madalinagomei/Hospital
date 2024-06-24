@@ -1,0 +1,73 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+h1 {
+  margin: 0;
+}
+
+nav {
+  background-color: #d4c622;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px;
+}
+
+nav a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+section {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+/* solution as follows */
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.hospital-image {
+  display: block;
+  margin: 20px auto;
+  max-width: 400px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table th,
+table td {
+  border: 1px solid #333;
+  padding: 10px;
+}
+
+table th {
+  background-color: #333;
+  color: #fff;
+}
+
+table tr {
+  background-color: #f4f4f4;
+}
